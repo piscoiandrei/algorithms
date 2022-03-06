@@ -1,1 +1,1 @@
-About this project: 
+Algorithms database
